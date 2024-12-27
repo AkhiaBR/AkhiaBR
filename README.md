@@ -6,8 +6,8 @@ IT student at Colégio SATC (Criciúma), pursuing Informatics. Passionate about 
 
 ## 📊 GitHub Stats
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhiaBR&theme=midnight-purple&hide_title=true&card_width=650" alt="AkhiaBR's GitHub stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhiaBR&layout=compact&theme=midnight-purple&card_width=650" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhiaBR&theme=midnight-purple&hide_title=true&card_width=850" alt="AkhiaBR's GitHub stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhiaBR&layout=compact&theme=midnight-purple&card_width=850" alt="Top Langs" />
 </div>
 
 ## 🎯 Technical Skills
