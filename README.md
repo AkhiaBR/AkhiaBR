@@ -2,7 +2,7 @@
 
 Hi, I'm Fernando!
 
-IT student at Colégio SATC (Criciúma), pursuing Informatics. Passionate about innovative projects. Driven to deliver exceptional solutions, focusing on Cybersecurity and aspiring to excel as a Computer Engineer.
+IT student at Colégio SATC (Criciúma), pursuing Informatics. Passionate about innovative projects. Driven to deliver exceptional solutions, focusing on Cybersecurity and aspiring to excel as a Software Engineer.
 
 ## 📊 GitHub Stats
 <div align="center"> 
