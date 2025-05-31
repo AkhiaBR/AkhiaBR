@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div>
-  <h3>Hello! I'm Fernando (Akhia). I'm an IT student at SATC, focused on building a strong tech foundation. My main ambition is to become a leading cybersecurity professional. After my technical degree, I plan to pursue Computer Engineering to deepen my expertise and contribute to innovative solutions.
-  </h3>
+  <p>Hello! I'm Fernando (Akhia). I'm an IT student at SATC, focused on building a strong tech foundation. My main ambition is to become a leading cybersecurity professional. After my technical degree, I plan to pursue Computer Engineering to deepen my expertise and contribute to innovative solutions.
+  </p>
 </div>
 
 # 📊 Stats:
