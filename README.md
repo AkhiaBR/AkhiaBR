@@ -4,7 +4,7 @@ Hello! I'm Fernando (Akhia). I'm an IT student at SATC, focused on building a st
 # 📊 Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=AkhiaBR&theme=dark&hide_border=true&include_all_commits=false&count_private=false" style="width: 500px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhiaBR&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 395px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhiaBR&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 500px;">
 </div>
 
 
