@@ -11,6 +11,6 @@ Back-end developer with knowledge of Python, Java, and databases, seeking opport
 # Tech Skills:
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,cpp,arduino,java,py,mysql,bash,arch,linux,git,github)](https://github.com/AkhiaBR)
 
-# 🌐 Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandoglvz) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fgoncalves.tech@gmail.com) 
