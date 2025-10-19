@@ -1,14 +1,14 @@
-# 💫 About Me:
-Hello! I'm Fernando (Akhia). I'm an IT student at SATC, focused on building a strong tech foundation. My main ambition is to become a leading cybersecurity professional. After my technical degree, I plan to pursue Computer Engineering to deepen my expertise and contribute to innovative solutions.
+# About Me:
+Back-end developer with knowledge of Python, Java, and databases, seeking opportunities to apply my skills in different projects. I am currently specializing in cybersecurity.
 
-# 📊 Stats:
+# Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=AkhiaBR&theme=dark&hide_border=true&include_all_commits=false&count_private=false" style="width: 500px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhiaBR&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 500px;">
 </div>
 
 
-# 💻 Tech Skills:
+# Tech Skills:
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,cpp,arduino,java,py,mysql,bash,arch,linux,git,github)](https://github.com/AkhiaBR)
 
 # 🌐 Socials:
